@@ -5,3 +5,7 @@ Enter Text in Markdown format.
 ### 24. veebruar Iseseisvuspäev
 
 Võidupüha
+
+Jaanipäev
+
+Uusaasta
